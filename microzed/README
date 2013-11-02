@@ -1,4 +1,6 @@
 lib/mod for MicroZed Bergstak connectors.
 XML files for use with AdharLabs' Kicad-tools are also included
-(change pin types to suit your use)
+(change pin types to suit your use).
 Note that you will probably want to flip the schematic parts.
+
+These files have not been production-checked, but they will be soon.
