@@ -1,3 +1,7 @@
 Schematic symbol for HP 8566A/8566B rear panel Centronics connector
 
-CSV formatted for use with KiPart
+CSV formatted for use with KiPart. The current version of KiPart
+seems to assume that the ordering of pins should be counterclockwise;
+so using the -s row option or -s num option didn't give me the desired
+result. I flipped the rows for pins 1-25 in LibreOffice, and used
+-s row to get the correct representation.
